@@ -1,0 +1,15 @@
+.cards__image {
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	padding-bottom: 83%;
+}
+
+@media screen and (max-width: 768px) {
+	.cards__image {
+		grid-area: image;
+	}
+}
+
+
+

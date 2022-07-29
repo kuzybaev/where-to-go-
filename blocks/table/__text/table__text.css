@@ -1,0 +1,11 @@
+.table__text {
+   margin: 0;
+   font-size: 14px;
+   font-family: 'Istok';
+}
+
+@media screen and (max-width: 768px) {
+   .table__text {
+      font-size: 12px;
+   }
+}

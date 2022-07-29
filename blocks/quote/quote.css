@@ -1,0 +1,16 @@
+.quote {
+   max-width: 1150px;
+   padding: 135px 68px 150px;
+}
+
+@media screen and (max-width: 1024px) {
+   .quote {
+      padding: 100px 40px 120px;
+   }
+}
+
+@media screen and (max-width: 768px) {
+   .quote {
+      padding: 30px 30px 60px;
+   }
+}

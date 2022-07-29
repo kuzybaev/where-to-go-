@@ -1,0 +1,9 @@
+.page_lock {
+
+}
+
+@media screen and (max-width: 768px) {
+	.page_lock {
+		overflow: hidden;
+	}
+}

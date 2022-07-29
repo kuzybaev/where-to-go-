@@ -10,8 +10,8 @@
 @font-face {
 	font-family: 'Inter';
 	src: url(../fonts/Inter/Inter-Regular.woff) format('woff'),
-		  url(../fonts/Inter/Inter-Regular.woff2) format('woff2'), 
-		  url(../fonts/Inter/Inter-Regular.ttf) format('truetype'),  
+		  url(../fonts/Inter/Inter-Regular.woff2) format('woff2'),
+		  url(../fonts/Inter/Inter-Regular.ttf) format('truetype'),
 		  url(../fonts/Inter/Inter-Regular.otf) format('opentype');
 	font-weight: normal;
 }
@@ -19,8 +19,8 @@
 @font-face {
 	font-family: 'Istok';
 	src: url(../fonts/Istok/IstokWeb-Regular.woff) format('woff'),
-		  url(../fonts/Istok/IstokWeb-Regular.woff2) format('woff2'), 
-		  url(../fonts/Istok/IstokWeb-Regular.ttf) format('truetype'),  
+		  url(../fonts/Istok/IstokWeb-Regular.woff2) format('woff2'),
+		  url(../fonts/Istok/IstokWeb-Regular.ttf) format('truetype'),
 		  url(../fonts/Istok/IstokWeb-Regular.otf) format('opentype');
 	font-weight: normal;
 }

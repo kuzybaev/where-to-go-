@@ -1,0 +1,19 @@
+.quote__subtitle {
+   margin: 0;
+   max-width: 520px;
+   font-size: 32px;
+}
+
+@media screen and (max-width: 768px) {
+   .quote__subtitle {
+      font-size: 20px;
+      max-width: 360px;
+   }
+}
+
+@media screen and (max-width: 320px) {
+   .quote__subtitle {
+      margin: 0 0 25px;
+      font-size: 30px;
+   }
+}

@@ -1,0 +1,20 @@
+.quote__title {
+   margin: 0 0 40px;
+   text-transform: uppercase;
+   font-size: 14px;
+   font-weight: 700;
+   color: #fecfab;
+}
+
+@media screen and (max-width: 768px) {
+   .quote__title {
+      margin: 0 0 25px;
+      font-size: 12px;
+   }
+}
+
+@media screen and (max-width: 320px) {
+   .quote__title {
+      margin: 0 0 20px;
+   }
+}

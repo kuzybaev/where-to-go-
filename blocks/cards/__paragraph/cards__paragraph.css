@@ -1,0 +1,16 @@
+.cards__paragraph {
+   margin: 0;
+	margin-bottom: 30px;
+   font-size: 16px;
+}
+
+.cards__paragraph:last-child {
+	margin-bottom: 0;
+}
+
+@media screen and (max-width: 768px) {
+   .cards__paragraph {
+      font-size: 14px;
+		margin-bottom: 20px;
+   }
+}

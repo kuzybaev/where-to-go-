@@ -1,0 +1,17 @@
+.menu__list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: space-between;
+	gap: 35px;
+	position: relative;
+	z-index: 2;
+}
+
+@media screen and (max-width: 768px) {
+	.menu__list {
+		flex-direction: column;
+		padding: 110px 0 0 50px;
+	}
+}

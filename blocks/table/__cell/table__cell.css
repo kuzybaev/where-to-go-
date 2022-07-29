@@ -1,0 +1,19 @@
+.table__cell {
+   min-width: 225px;
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+}
+
+@media screen and (max-width: 1024px) {
+   .table__cell {
+      gap: 25px;
+   }
+}
+
+@media screen and (max-width: 320px) {
+   .table__cell {
+      min-width: 139px;
+      gap: 10px;
+   }
+}

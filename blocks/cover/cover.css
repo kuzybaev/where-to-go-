@@ -1,0 +1,27 @@
+.cover {
+   box-sizing: border-box;
+   max-width: 1150px;
+   display: flex;
+   justify-content: space-between;
+   padding: 0 68px 0;
+}
+
+@media screen and (max-width: 1024px) {
+   .cover {
+      padding: 0 40px 0;
+   }
+}
+
+@media screen and (max-width: 768px) {
+   .cover {
+      padding: 0 30px 0;
+   }
+}
+
+@media screen and (max-width: 425px) {
+   .cover {
+      flex-direction: column;
+      padding: 0;
+   }
+}
+

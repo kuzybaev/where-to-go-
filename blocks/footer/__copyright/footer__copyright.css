@@ -1,0 +1,12 @@
+.footer__copyright {
+   font-weight: 700;
+   font-size: 32px;
+   text-align: center;
+   margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+   .footer__copyright {
+      font-size: 22px;
+   }
+}
