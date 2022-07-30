@@ -16,7 +16,6 @@
 Верстка оформлена при помощи технологий флексбокс и grid layout.
 
 ## *Ссылка на GitPages:*
-
-
+https://kuzybaev.github.io/where-to-go-/
 
 

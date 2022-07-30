@@ -20,9 +20,7 @@
 
 @media screen and (max-width: 500px) {
    .cover__image {
-      min-height: 320px;
-      width: 100%;
-      object-fit: cover;
-      object-position: top;
+      max-width: 100%;
+      max-height: 100%;
    }
 }
