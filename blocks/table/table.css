@@ -23,9 +23,3 @@
    }
 }
 
-@media screen and (max-width: 320px) {
-   .table {
-      grid-template-columns: repeat(2, 1fr);
-      grid-template-rows: repeat(2, 1fr);
-   }
-}

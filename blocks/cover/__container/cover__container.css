@@ -10,7 +10,7 @@
    }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
    .cover__container {
       margin-right: 0;
       padding: 0 30px 0;

@@ -6,6 +6,7 @@
 @media screen and (max-width: 1024px) {
    .cards__title {
       font-size: 26px;
+      margin-bottom: 15px;
    }
 }
 

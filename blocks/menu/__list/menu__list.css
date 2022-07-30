@@ -12,6 +12,6 @@
 @media screen and (max-width: 768px) {
 	.menu__list {
 		flex-direction: column;
-		padding: 110px 0 0 50px;
+		padding: 100px 0 0 50px;
 	}
 }

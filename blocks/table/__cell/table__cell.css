@@ -11,6 +11,13 @@
    }
 }
 
+@media screen and (max-width: 768px) {
+   .table__cell {
+      gap: 15px;
+   }
+}
+
+
 @media screen and (max-width: 320px) {
    .table__cell {
       min-width: 139px;
